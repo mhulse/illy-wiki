@@ -1,5 +1,32 @@
-# illy-wiki
+## [Anime Studio Pro to Adobe Illustrator](../../wiki/Anime-Studio-Pro-to-Adobe-Illustrator)&nbsp;[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+- [Anime Studio Pro](../../wiki/Anime-Studio-Pro-to-Adobe-Illustrator#anime-studio-pro)
+- [Adobe Flash](../../wiki/Anime-Studio-Pro-to-Adobe-Illustrator#adobe-flash)
+- [Adobe Illustrator](../../wiki/Anime-Studio-Pro-to-Adobe-Illustrator#adobe-illustrator)
 
-**Tips and notes about Adobe Illustrator**
 
-For now, check out [this repo’s Wiki](../../wiki) …
+## [Illustrator Tips](../../wiki/Illustrator-Tips)&nbsp;[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+- [Center Point](../../wiki/Illustrator-Tips#center-point)
+- [Move object during draw](../../wiki/Illustrator-Tips#move-object-during-draw)
+- [Get to a tool’s preferences](../../wiki/Illustrator-Tips#get-to-a-tools-preferences)
+
+
+## [Illustrator typographic logo workflow](../../wiki/Illustrator-typographic-logo-workflow)&nbsp;[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+- [Materials](../../wiki/Illustrator-typographic-logo-workflow#materials)
+- [Starting a logo design](../../wiki/Illustrator-typographic-logo-workflow#starting-a-logo-design)
+- [Look for visual references (a.k.a “tears” or “tear sheets”)](../../wiki/Illustrator-typographic-logo-workflow#look-for-visual-references-aka-tears-or-tear-sheets)
+- [Logo design process](../../wiki/Illustrator-typographic-logo-workflow#logo-design-process)
+  * [Prep](../../wiki/Illustrator-typographic-logo-workflow#prep)
+  * [Analog thumbnails](../../wiki/Illustrator-typographic-logo-workflow#analog-thumbnails)
+  * [Mimic with existing font](../../wiki/Illustrator-typographic-logo-workflow#mimic-with-existing-font)
+  * [Refined analog thumbnail](../../wiki/Illustrator-typographic-logo-workflow#refined-analog-thumbnail)
+  * [Scan and refine in Illustrator](../../wiki/Illustrator-typographic-logo-workflow#scan-and-refine-in-illustrator)
+  * [Print and refine](../../wiki/Illustrator-typographic-logo-workflow#print-and-refine)
+  * [Refine in Illustrator](../../wiki/Illustrator-typographic-logo-workflow#refine-in-illustrator)
+  * [Repeate above steps until happy](../../wiki/Illustrator-typographic-logo-workflow#repeate-above-steps-until-happy)
+  * [Take a break](../../wiki/Illustrator-typographic-logo-workflow#take-a-break)
+  * [Refine](../../wiki/Illustrator-typographic-logo-workflow#refine)
+  * [Optionally adding shading and dimension](../../wiki/Illustrator-typographic-logo-workflow#optionally-adding-shading-and-dimension)
+- [General tips and tricks](../../wiki/Illustrator-typographic-logo-workflow#general-tips-and-tricks)
+- [Fonts](../../wiki/Illustrator-typographic-logo-workflow#fonts)
+- [Links](../../wiki/Illustrator-typographic-logo-workflow#links)
+
