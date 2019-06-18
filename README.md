@@ -1,7 +1,7 @@
-## [Anime Studio Pro to Adobe Illustrator](../../wiki/Anime-Studio-Pro-to-Adobe-Illustrator)&nbsp;[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
-- [Anime Studio Pro](../../wiki/Anime-Studio-Pro-to-Adobe-Illustrator#anime-studio-pro)
-- [Adobe Flash](../../wiki/Anime-Studio-Pro-to-Adobe-Illustrator#adobe-flash)
-- [Adobe Illustrator](../../wiki/Anime-Studio-Pro-to-Adobe-Illustrator#adobe-illustrator)
+## [Anime Studio Pro to Illustrator](../../wiki/Anime-Studio-Pro-to-Illustrator)&nbsp;[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+- [Anime Studio Pro](../../wiki/Anime-Studio-Pro-to-Illustrator#anime-studio-pro)
+- [Adobe Flash](../../wiki/Anime-Studio-Pro-to-Illustrator#adobe-flash)
+- [Adobe Illustrator](../../wiki/Anime-Studio-Pro-to-Illustrator#adobe-illustrator)
 
 
 ## [Illustrator Tips](../../wiki/Illustrator-Tips)&nbsp;[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
@@ -29,4 +29,25 @@
 - [General tips and tricks](../../wiki/Illustrator-typographic-logo-workflow#general-tips-and-tricks)
 - [Fonts](../../wiki/Illustrator-typographic-logo-workflow#fonts)
 - [Links](../../wiki/Illustrator-typographic-logo-workflow#links)
+
+
+## [My Illustrator plugins, templates, etc.](../../wiki/My-Illustrator-plugins,-templates,-etc.)&nbsp;[<img width="32" height="32" align="right" src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png" class="emoji" title="TOC">](#readme)
+- [About](../../wiki/My-Illustrator-plugins,-templates,-etc.#about)
+- [Plugins to install](../../wiki/My-Illustrator-plugins,-templates,-etc.#plugins-to-install)
+  * [Illy Nudge](../../wiki/My-Illustrator-plugins,-templates,-etc.#illy-nudge)
+  * [illy-swatches-to-hex](../../wiki/My-Illustrator-plugins,-templates,-etc.#illy-swatches-to-hex)
+  * [illy-grad](../../wiki/My-Illustrator-plugins,-templates,-etc.#illy-grad)
+  * [illy-anim-redux](../../wiki/My-Illustrator-plugins,-templates,-etc.#illy-anim-redux)
+  * [illy-export](../../wiki/My-Illustrator-plugins,-templates,-etc.#illy-export)
+  * [illy-gif](../../wiki/My-Illustrator-plugins,-templates,-etc.#illy-gif)
+- [Documents and templates](../../wiki/My-Illustrator-plugins,-templates,-etc.#documents-and-templates)
+  * [illy-profiles](../../wiki/My-Illustrator-plugins,-templates,-etc.#illy-profiles)
+  * [illy-templates](../../wiki/My-Illustrator-plugins,-templates,-etc.#illy-templates)
+  * [illy-dithers](../../wiki/My-Illustrator-plugins,-templates,-etc.#illy-dithers)
+- [Colors](../../wiki/My-Illustrator-plugins,-templates,-etc.#colors)
+  * [swatches](../../wiki/My-Illustrator-plugins,-templates,-etc.#swatches)
+- [Works in progress](../../wiki/My-Illustrator-plugins,-templates,-etc.#works-in-progress)
+  * [illy-px](../../wiki/My-Illustrator-plugins,-templates,-etc.#illy-px)
+- [Tools](../../wiki/My-Illustrator-plugins,-templates,-etc.#tools)
+  * [slinky-cli](../../wiki/My-Illustrator-plugins,-templates,-etc.#slinky-cli)
 
